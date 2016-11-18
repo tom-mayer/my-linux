@@ -64,6 +64,7 @@
 ## Additional Packages
 
 - Docky
+- Oh my ZSH (afowler)
 - Typora
 - TexLive
 - IntelliJ
