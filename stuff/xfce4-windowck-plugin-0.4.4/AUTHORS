@@ -1,0 +1,11 @@
+Alessio Piccoli <alepic@geckoblu.net>
+    Porting to XFCE of 'GNOME Window Applet'.
+    
+Cedric Leporcq <cedl38 at gmail dot com>
+    Adding several improvments and bugfix.
+
+Felix Krull <f_krull@gmx.de>
+    Debian packaging support
+
+Pavel Zlámal <zlamal@cesnet.cz>
+    Adding Czech translation
