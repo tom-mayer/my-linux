@@ -100,6 +100,7 @@
 ### Theme
 
 http://www.ravefinity.com/p/download-ambiance-blackout-flat-colors.html
+andreisergiu98/arc-flatabulous-theme
 
 /usr/share/themes
 
