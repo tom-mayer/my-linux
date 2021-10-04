@@ -102,6 +102,8 @@
 http://www.ravefinity.com/p/download-ambiance-blackout-flat-colors.html
 andreisergiu98/arc-flatabulous-theme
 
+flatabulous-dark / vibrancy colors
+
 /usr/share/themes
 
 - Ambiance Blackout Flat Dark X
